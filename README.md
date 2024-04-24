@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 ### Hi I'm Chaeyun Lim 👋
+majoring in **ITM, SeoulTech**
+
 
 #### 🏢 Experiences
 <ul>
