@@ -21,6 +21,9 @@
     2021.02 ~ 2021.09 대용량 개인정보 접속로그 분석을 통한 이상행위 탐지 프로젝트
   </li>
   <li>
+    2021.02 ~ 2021.11 실시간 온라인 수업에서의 얼굴 이미지 조작 기술 연구
+  </li>
+  <li>
     2021.11 ~ 2022.08 프랜차이즈 fitness 센터 회원관리 시스템 개발
   </li>
   <li>
@@ -33,6 +36,9 @@
     2024.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 티켓 예매 웹사이트 <a href="https://github.com/Tiketeer">Tiketeer</a> 개발
   </li>
 </ul>
+
+#### :page_with_curl: Paper
+- [An experimental study of animating-based facial image manipulation in online class environments. Sci Rep 13, 4667](https://doi.org/10.1038/s41598-023-31408-y) (2023, 제 1공동저자)
 
 #### 🔗 Links
 [![](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dla0510/posts)
