@@ -26,7 +26,7 @@ majoring in **ITM, SeoulTech**
     2021.02 ~ 2021.11 실시간 온라인 수업에서의 얼굴 이미지 조작 기술 연구
   </li>
   <li>
-    2021.11 ~ 2022.08 프랜차이즈 fitness 센터 회원관리 시스템 개발
+    2021.11 ~ 2022.03 프랜차이즈 fitness 센터 회원관리 시스템 개발
   </li>
   <li>
     2022.11 ~ 2022.12  고양이 사진 공유 SNS 서비스 <a href="https://github.com/boostcampwm-2022/web09-KittyMark">Kitty Mark</a> 개발
