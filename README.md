@@ -38,7 +38,7 @@ majoring in **ITM, SeoulTech**
     2023.03 ~ 2023.12 클라우드 보안 솔루션 - 클라우드 연동 및 형상 수집 파트 개발
   </li>
   <li>
-    2024.03 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 티켓 예매 웹사이트 <a href="https://github.com/Tiketeer">Tiketeer</a> 개발
+    2024.03 ~ 2024.06 티켓 예매 웹사이트 <a href="https://github.com/Tiketeer">Tiketeer</a> 개발
   </li>
 </ul>
 
