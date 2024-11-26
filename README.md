@@ -14,6 +14,9 @@ majoring in **ITM, SeoulTech**
   <li>
     2023.03 ~ 2023.12 <a href="https://www.tatumsecurity.com/">클라우드 보안 솔루션 스타트업, 테이텀 시큐리티</a> 백엔드 개발자
   </li>
+  <li>
+    2024.07 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 네이버 TPM
+  </li>
 </ul>
 
 
